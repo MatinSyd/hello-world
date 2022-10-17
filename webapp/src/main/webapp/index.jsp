@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Registeration for Devops and aws profile  </h1>
+    <h1>New </h1>
     <h1> hii sir my name is mateen </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
