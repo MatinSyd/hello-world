@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New </h1>
     <h1> register page and name given below</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account for this page .</p>
     <hr>
     
     <label for="Name"><b>Name</b></label>
